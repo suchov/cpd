@@ -14,3 +14,10 @@
 # Modules
 
 # None - nothing
+
+# VARIABLES
+# naming variables is one of the most difficult things that can do a programmer
+a, b, c = 1, 2, 3  # rapid assignment
+print(a)
+print(b)
+print(c)
